@@ -9,7 +9,7 @@ export const sliderItems = [
     },
     {
         id: 2,
-        img: "https://i.ibb.co/8bLG0fS/1.png",
+        img: "https://i.im.ge/2021/09/12/T2VM5D.png",
         title: "WINTER SALE",
         desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
         bg: "fcf1ed",
@@ -17,7 +17,7 @@ export const sliderItems = [
     },
     {
         id: 3,
-        img: "https://i.ibb.co/8bLG0fS/1.png",
+        img: "https://i.im.ge/2021/09/12/T2HsOx.png",
         title: "POPULAR SALE",
         desc: "DON'T COMPROMISE ON STYLE! GET FLAT 40% OFF FOR NEW ARRIVALS.",
         bg: "fbf0f4",
@@ -28,7 +28,7 @@ export const sliderItems = [
 export const categories = [
     {
         id: 1,
-        img: "https://i.ibb.co/dWWskP8/shirt-style.png",
+        img: "https://i.im.ge/2021/09/12/T2vgUr.png",
         title: "SHIRT STYLE",
     },
     {
