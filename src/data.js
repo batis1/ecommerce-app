@@ -19,7 +19,7 @@ export const sliderItems = [
         id: 3,
         img: "https://i.ibb.co/8bLG0fS/1.png",
         title: "POPULAR SALE",
-        desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
+        desc: "DON'T COMPROMISE ON STYLE! GET FLAT 40% OFF FOR NEW ARRIVALS.",
         bg: "fbf0f4",
     
     }
